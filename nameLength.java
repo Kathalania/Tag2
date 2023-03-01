@@ -1,4 +1,4 @@
-public class namelength {
+public class nameLength {
     public static void main(String[] args) {
 
         String name = "Hottentottenstottertrottel";
@@ -22,7 +22,7 @@ public class namelength {
             System.out.println("name is longer than 20 digits");
         else
             System.out.println("name is shorter than 20 digits");
-        return nameLength>20;
+        return nameLength>=20;
         }
 
     public static boolean containsFancy(String name){

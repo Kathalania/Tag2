@@ -23,7 +23,7 @@ public class Tag2 {
                 break;
 
         }*/
-
+/*
         int value1 = 171;
         int value2 = 3;
 
@@ -61,22 +61,8 @@ public class Tag2 {
             System.out.println("Zweiter Wert ist größer als 100");
         else
             System.out.println("Zweiter Wert ist kleiner als 100");
+*/
 
-        String name = "Hottentottenstottertrottel";
-        int nameLength = name.length();
-        boolean fancy = name.contains("fancy");
-
-        System.out.println(name.toLowerCase());
-        System.out.println(name.toUpperCase());
-        System.out.println(nameLength);
-        System.out.println(name.contains("fancy"));
 
     }
-
-    public static int lengthTest(int nameLength) {
-        if (nameLength>=20)
-            System.out.println("");
-        return
-    }
-
 }
