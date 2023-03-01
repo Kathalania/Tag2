@@ -1,7 +1,7 @@
 public class nameLength {
     public static void main(String[] args) {
 
-        String name = "Hottentottenstottertrottel";
+        String name = "Hottertrottel";
         int nameLength = name.length();
         boolean fancy = name.contains("fancy");
 
